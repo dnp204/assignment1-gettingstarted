@@ -9,9 +9,9 @@ questions = [
     ("Is it possible to decode a message without a key? - Yes/No", 'Yes'),
     ("Is a hashed message supposed to be un-hashed? - Yes/No", 'No'),
     ("What is the MD5 hashing value to the following message: 'NYU Computer Networking' - Use MD5 hash generator and use the answer in your code",
-     '68c74b1fe84ac8c662849915bc9002f4'),
+     '42b76fe51778764973077a5a94056724'),
     ("Is MD5 a secured hashing algorithm? - Yes/No", 'No'),
-    ("What layer from the TCP/IP model the protocol DHCP belongs to? - The answer should be a numeric number", 3),
+    ("What layer from the TCP/IP model the protocol DHCP belongs to? - The answer should be a numeric number", 5),
     ("What layer of the TCP/IP model the protocol TCP belongs to? - The answer should be a numeric number", 4)
 ]
 
